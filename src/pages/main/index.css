@@ -1,0 +1,19 @@
+.main-layout{
+    width: 100%;
+    display: flex;
+}
+main {
+    padding: 20px;
+}
+.main-left {
+   width: 100%; 
+}
+
+.saidbar {
+    width: 17.5%;
+}
+.outletmain {
+    width: 81%;
+    margin-left: 308px;
+    margin-top: 80px;
+}
